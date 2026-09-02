@@ -185,9 +185,7 @@ Projeto desenvolvido como exercício de design e desenvolvimento web front-end, 
 
 Projeto **concluído** e funcional.
 
-# Licença
 
-Projeto de estudo e portfólio. Para uso livre.
 
 ---
 
